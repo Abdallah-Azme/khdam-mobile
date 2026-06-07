@@ -1,0 +1,25 @@
+Starting project at C:\Users\abdallah\Desktop\ahmed\khadam\mobile
+Using src/app as the root directory for Expo Router.
+React Compiler enabled
+Metro is running in CI mode, reloads are disabled. Remove CI=true to enable watch mode.
+Starting Metro Bundler
+
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8087
+Logs for your project will appear below.
+λ Bundled 18110ms node_modules\expo\node_modules\@expo\cli\node_modules\@expo\router-server\node\render.js (1153 modules)
+Web Bundled 19218ms node_modules\expo-router\entry.js (1035 modules)
+Web Bundled 7048ms node_modules\expo-router\entry.js (1040 modules)
+Web  INFO  %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+Web  LOG  Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+λ Bundled 54ms node_modules\expo\node_modules\@expo\cli\node_modules\@expo\router-server\node\render.js (1 module)
+λ Bundled 50ms node_modules\expo\node_modules\@expo\cli\node_modules\@expo\router-server\node\render.js (1 module)
+Web Bundled 751ms node_modules\expo-router\entry.js (1 module)
+Web Bundled 640ms node_modules\expo-router\entry.js (1 module)
+λ Bundled 52ms node_modules\expo\node_modules\@expo\cli\node_modules\@expo\router-server\node\render.js (1 module)
+Web Bundled 438ms node_modules\expo-router\entry.js (1 module)
+λ Bundled 62ms node_modules\expo\node_modules\@expo\cli\node_modules\@expo\router-server\node\render.js (1 module)
+Web Bundled 442ms node_modules\expo-router\entry.js (1 module)
